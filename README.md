@@ -25,4 +25,4 @@ Things you may want to cover:
 
 Editing by......
 
-Editing by main Branch
+Editing by develop Branch
